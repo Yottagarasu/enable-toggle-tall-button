@@ -1,0 +1,11 @@
+{
+  "name": "enable-toggle-tall-button",
+  "version": "1.0.1",
+  "title": "Enable Toggle Tall Entities Button",
+  "description": "Enable the toggle visibility of tall entities button without needing Elevated Rails mod enabled.",
+  "author": "Yottagarasu",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.9"
+  ]
+}
